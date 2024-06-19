@@ -25,7 +25,7 @@ export class PeliculasService {
 
       language: 'es-ES',
       page: this.carteleraPage,
-      api_key:'710eb4083bf34e6f19aeb441a2e6e01c',
+      api_key:'',
     }
   }
 
